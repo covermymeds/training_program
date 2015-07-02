@@ -71,7 +71,7 @@ We'll cover key components of our stack including:
 - Talk: Elasticsearch from lead mobile developer, Jim Muir
 
 ###Day 5
-- [Pair Columbus challenges](http://paircolumbus.org/challenges/)(all-day)
+- [Pair Columbus challenges](http://paircolumbus.org/challenges/) (all-day)
 - OWASP web security training
 - No mentoring session
 
