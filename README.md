@@ -74,7 +74,7 @@ We'll cover key components of our stack including:
 - Talk: Elasticsearch from lead mobile developer, Jim Muir
 
 ###Day 8
-- [Pair Columbus challenges](http://paircolumbus.org/challenges/)(all-day)
+- [Pair Columbus challenges](http://paircolumbus.org/challenges/) (all-day)
 - OWASP web security training
 - No mentoring session
 
@@ -109,7 +109,7 @@ We'll cover key components of our stack including:
 - Rails Application: Peer code review 
 - Fill out exit survey
 
-##On the Job Training
+##Crossover Training
 - Join a product vertical consisting of experienced engineers, product managers, and test engineers
 - Regular pair programming and mentoring
 - Dive deep into our applications and software stack
