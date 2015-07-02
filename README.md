@@ -26,7 +26,10 @@ We'll cover key components of our stack including:
 
 ##Course Curriculum
 
-###Day 1
+###Day 1-3
+- General CoverMyMeds Training
+
+###Day 4
 - Intro to DeployWizard and our deployment process
 - Reserving testing environments
 - Utilizing pinglish
@@ -35,7 +38,7 @@ We'll cover key components of our stack including:
 - Talk: Product Verticals & Standards by senior engineer, Jon Canady
 - Talk: DeployWizard by co-op developer, Michael Kenworthy
 
-###Day 2
+###Day 5
 - Review Day 1
 - [PairColumbus challenges](http://paircolumbus.org/challenges/)
 - Finding help with HipChat & GitHub
@@ -47,7 +50,7 @@ We'll cover key components of our stack including:
 - Talk: Sentry by operations engineer, Dan Sajner
 - Talk: Github Issues & Huboard by engineering manager, Barry Brinkley
 
-###Day 3
+###Day 6
 - Review deployment process
 - [PairColumbus challenges](http://paircolumbus.org/challenges/)
 - Databases & environment differences
@@ -56,7 +59,7 @@ We'll cover key components of our stack including:
 - Using enviro & envirotron
 - Talk: Databases by our database administrators, Bruce Nation & CJ Estel
 
-###Day 4
+###Day 7
 - Review Q&A
 - [PairColumbus challenges](http://paircolumbus.org/challenges/)
 - Using key tools
@@ -70,12 +73,12 @@ We'll cover key components of our stack including:
 - Talk: Graphite/Grafana & Jenkins CI by senior test engineer, Brian Lees
 - Talk: Elasticsearch from lead mobile developer, Jim Muir
 
-###Day 5
+###Day 8
 - [Pair Columbus challenges](http://paircolumbus.org/challenges/)(all-day)
 - OWASP web security training
 - No mentoring session
 
-###Day 6 
+###Day 9 
 - Review Q&A
 - [PairColumbus challenges](http://paircolumbus.org/challenges/)
 - Better coding practices (POODR, SRP, LoD, YAGNI)
@@ -84,7 +87,7 @@ We'll cover key components of our stack including:
 - Books & resources
 - Talk: BackboneJS by software engineer, Alex Ford
 
-###Day 7 
+###Day 10 
 - Review Q&A
 - [Pair Columbus challenges](http://paircolumbus.org/challenges/)
 - Review coding & application standards
@@ -92,17 +95,17 @@ We'll cover key components of our stack including:
 - Live code review (Completed Rails projects)
 - Review CoverMyMeds production code
 
-###Day 8
+###Day 11
 - Review Q&A
 - [Pair Columbus challenges](http://paircolumbus.org/challenges/)
 - Review of coding standards
 - Live code review (Completed Rails projects)
 - Review CoverMyMeds production code
 
-###Day 9-11
+###Day 12-14
 - Build and test a Rails application
 
-###Day 12
+###Day 15
 - Rails Application: Peer code review 
 - Fill out exit survey
 
